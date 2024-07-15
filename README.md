@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# Getting Started with the Vue 3D Circular Charts Component
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A quick-start project that contains code to create and configure the Syncfusion Vue 3D Circular Charts component. This project also contains code to configure a few of the control’s basic features, like enabling data labels, tooltips, and legends.   
+ 
+Refer to the following documentation to learn about the Vue 3D Circular Charts component: 
+https://ej2.syncfusion.com/vue/documentation/circular-chart-3d/vue-3-getting-started  
 
-## Recommended IDE Setup
+Check out this online example of the Vue 3D Circular Charts component:
+https://ej2.syncfusion.com/vue/demos/#/material/three-dimension-circular-chart/pie
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Project prerequisites
+Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project.
+
+## How to run this application
+To run this application, you need to first clone the `getting-started-with-the-react-3d-circular-charts-component` repository and then open it in Visual Studio Code. Now, simply build and run your project to view the output.
